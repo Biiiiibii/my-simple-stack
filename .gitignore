@@ -1,0 +1,9 @@
+#git ignore les fichiers . class
+*.class
+#git ignore le dossier target
+target/
+#git ignore le dossier idea
+.idea/
+#git ignore les fichiers .iml
+*.iml
+
